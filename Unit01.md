@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS303: Algorithms"
+course_description: "A detailed exploration of the mathematical techniques used for the design and analysis of computer algorithms. Topics include the study of computer algorithms for numeric and non-numeric problems, analysis of time and space requirements of algorithms, correctness of algorithms, and NP-completeness."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Introduction to Algorithms** <span id="1"></span> 
 *This unit introduces what algorithms are and discusses their importance
 with the role that algorithms play compared to other technologies used

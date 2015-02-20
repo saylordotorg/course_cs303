@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS303: Algorithms"
+course_description: "A detailed exploration of the mathematical techniques used for the design and analysis of computer algorithms. Topics include the study of computer algorithms for numeric and non-numeric problems, analysis of time and space requirements of algorithms, correctness of algorithms, and NP-completeness."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Graph Theory and Graph Algorithms** <span id="6"></span> 
 *In this unit, you will learn about graph theory and graph-based
 algorithms.  Graphs are a pervasive data structure in computer science

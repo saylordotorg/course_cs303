@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS303: Algorithms"
+course_description: "A detailed exploration of the mathematical techniques used for the design and analysis of computer algorithms. Topics include the study of computer algorithms for numeric and non-numeric problems, analysis of time and space requirements of algorithms, correctness of algorithms, and NP-completeness."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Divide and Conquer Method** <span id="3"></span> 
 *In this unit, we will examine a popular technique called
 divide-and-conquer that is used in solving computer science problems.

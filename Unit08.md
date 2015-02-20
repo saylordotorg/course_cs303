@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS303: Algorithms"
+course_description: "A detailed exploration of the mathematical techniques used for the design and analysis of computer algorithms. Topics include the study of computer algorithms for numeric and non-numeric problems, analysis of time and space requirements of algorithms, correctness of algorithms, and NP-completeness."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: NP-Completeness** <span id="8"></span> 
 *In this last unit, we will study a special class of problems called the
 NP-complete problems.  Many interesting computational problems are
