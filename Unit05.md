@@ -32,7 +32,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: University of California, Berkeley: S. Dasgupta, C.H.
     Papadimitriou, and U.V. Vazirani’s *Algorithms:* “[Chapter 6:
     Dynamic
-    Programming](http://novellaqalive2.mhhe.com/sites/dl/premium/0073523402/instructor/364486/Chapter6.pdf)”
+    Programming](https://www.cs.berkeley.edu/~vazirani/algorithms/chap6.pdf)”
     (PDF)  
       
      Instructions: Read Chapter 6 of S. Dasgupta, C.H. Papadimitriou,
