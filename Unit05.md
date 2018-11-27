@@ -39,7 +39,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: University of California, Berkeley: S. Dasgupta, C.H.
     Papadimitriou, and U.V. Vazirani’s *Algorithms:* “[Chapter 6:
     Dynamic
-    Programming](http://novellaqalive2.mhhe.com/sites/dl/premium/0073523402/instructor/364486/Chapter6.pdf)”
+    Programming](https://www.cs.berkeley.edu/~vazirani/algorithms/chap6.pdf)”
     (PDF)  
       
      Instructions: Read Chapter 6 of S. Dasgupta, C.H. Papadimitriou,
@@ -98,7 +98,7 @@ Upon successful completion of this unit, the student will be able to:
 **5.4 Dynamic Programming Examples** <span id="5.4"></span> 
 -   **Reading: Wikipedia: “Dynamic Programming”**
     Link: Wikipedia: “[Dynamic
-    Programming](http://www.saylor.org/site/wp-content/uploads/2011/06/Dynamic-Programming.pdf)”
+    Programming](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Dynamic-Programming.pdf)”
     (PDF)  
       
      Instructions: Please read the entire article titled “Dynamic
@@ -113,7 +113,7 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Assessment: The Saylor Foundation’s “Dynamic Programming”**
     Link: The Saylor Foundation’s “[Dynamic
-    Programming](http://www.saylor.org/site/wp-content/uploads/2012/06/CS303-Unit5Dynamic-Programming-FINAL.pdf)”
+    Programming](https://resources.saylor.org/archived/wp-content/uploads/2012/06/CS303-Unit5Dynamic-Programming-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please complete all questions in this activity.
@@ -123,7 +123,7 @@ Upon successful completion of this unit, the student will be able to:
     requires the dynamic programming approach.  You have to compare the
     runtimes for the two approaches.  You can check your answers with
     the Saylor Foundation’s “[Guide to
-    Responding.](http://www.saylor.org/site/wp-content/uploads/2012/06/CS303-Unit5Dynamic-ProgrammingAnswerKey-FINAL.pdf)”
+    Responding.](https://resources.saylor.org/archived/wp-content/uploads/2012/06/CS303-Unit5Dynamic-ProgrammingAnswerKey-FINAL.pdf)”
     (PDF)  
         
      This activity should take you approximately 10 hours to complete,
