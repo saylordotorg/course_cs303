@@ -83,7 +83,7 @@ Upon successful completion of this unit, the student will be able to:
 **2.4 Master Theorem** <span id="2.4"></span> 
 -   **Reading: Wikipedia: “Master Theorem”**
     Link: Wikipedia: “[Master
-    Theorem](http://www.saylor.org/site/wp-content/uploads/2011/06/Master-theorem.pdf)”
+    Theorem](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Master-theorem.pdf)”
     (PDF)  
       
      Instructions:  Please read the article titled “Master Theorem” to
@@ -99,7 +99,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Assessment: The Saylor Foundation’s “Introduction to Analysis of
     Algorithms”**
     Link: The Saylor Foundation’s [“Introduction to Analysis of
-    Algorithms”](http://www.saylor.org/site/wp-content/uploads/2013/01/CS303-Unit2Assignment-FINAL-vsFINAL.pdf) (PDF)  
+    Algorithms”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/CS303-Unit2Assignment-FINAL-vsFINAL.pdf) (PDF)  
         
      Instructions: Please complete all questions in this assessment. 
     There are six questions listed in two parts.  The first part
@@ -107,7 +107,7 @@ Upon successful completion of this unit, the student will be able to:
     the lectures.  The second part requires solving for complexity of
     the algorithms using the first principles.  You can check your
     answers with The Saylor Foundation’s [“Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2012/06/CS303-Unit2AssignmentAnswerKey-FINAL.pdf) (PDF).  
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/CS303-Unit2AssignmentAnswerKey-FINAL.pdf) (PDF).  
                       
      This assessment should take you approximately 3 hours to complete,
     including review for preparation.

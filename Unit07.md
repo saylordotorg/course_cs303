@@ -87,7 +87,7 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Assessment: The Saylor Foundation’s “Greedy Algorithms”**
     Link: The Saylor Foundation’s “[Greedy
-    Algorithms](http://www.saylor.org/site/wp-content/uploads/2012/06/CS303-Unit7Greedy-AlgorithmsAssignment-FINAL.pdf)”
+    Algorithms](https://resources.saylor.org/archived/wp-content/uploads/2012/06/CS303-Unit7Greedy-AlgorithmsAssignment-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please complete all questions in this activity.
@@ -95,7 +95,7 @@ Upon successful completion of this unit, the student will be able to:
     requiring two implementations using the Kruskal’s algorithm and the
     Prim’s algorithm. You can check your answers with the Saylor
     Foundation’s “[Guide to
-    Responding](http://www.saylor.org/site/wp-content/uploads/2012/06/CS303-Unit7Greedy-AlgorithmsAnswerKey-FINAL.pdf).”
+    Responding](https://resources.saylor.org/archived/wp-content/uploads/2012/06/CS303-Unit7Greedy-AlgorithmsAnswerKey-FINAL.pdf).”
     (PDF)  
         
      This activity should take you approximately 12 hours to complete,

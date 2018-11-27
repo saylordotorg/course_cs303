@@ -62,7 +62,7 @@ id="3.1"></span> 
 **3.3 Recursion** <span id="3.3"></span> 
 -   **Reading: Wikipedia: “Recursion”**
     Link: Wikipedia:
-    “[Recursion](http://www.saylor.org/site/wp-content/uploads/2011/06/Recursion.pdf)”
+    “[Recursion](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Recursion.pdf)”
     (PDF)  
       
      Instructions:  Please read the article titled “Recursion” to get an
@@ -77,7 +77,7 @@ id="3.1"></span> 
 
 -   **Assessment: The Saylor Foundation’s “Divide and Conquer”**
     Link: The Saylor Foundation’s “[Divide and
-    Conquer](http://www.saylor.org/site/wp-content/uploads/2012/06/CS303-Unit3Assignment-FINAL.pdf)”
+    Conquer](https://resources.saylor.org/archived/wp-content/uploads/2012/06/CS303-Unit3Assignment-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please complete all questions in this assessment. 
@@ -85,7 +85,7 @@ id="3.1"></span> 
     first one involves a search strategy, whereas the second one
     involves a multiplication strategy.  You can check your answers with
     the Saylor Foundation’s “[Answer
-    Key](http://www.saylor.org/site/wp-content/uploads/2012/06/CS303-Unit3AssignmentAnswerKey-FINAL.pdf)”
+    Key](https://resources.saylor.org/archived/wp-content/uploads/2012/06/CS303-Unit3AssignmentAnswerKey-FINAL.pdf)”
     (PDF).  
         
      This assessment should take you approximately 1.5 hours to

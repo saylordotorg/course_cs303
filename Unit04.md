@@ -86,7 +86,7 @@ Upon successful completion of this unit, the student will be able to:
 **4.4 Popular Sorting Algorithms** <span id="4.4"></span> 
 -   **Reading: Wikipedia: “Sorting Algorithms”**
     Link: Wikipedia: “[Sorting
-    Algorithms](http://www.saylor.org/site/wp-content/uploads/2011/06/Sorting-Algorithm.pdf)”
+    Algorithms](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Sorting-Algorithm.pdf)”
     (PDF)  
       
      Instructions: Please read the entire article titled “Sorting
@@ -101,7 +101,7 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Assessment: The Saylor Foundation’s “Sorting”**
     Link: The Saylor Foundation’s
-    “[Sorting](http://www.saylor.org/site/wp-content/uploads/2012/06/CS303-Unit4Assignment-FINAL.pdf)”
+    “[Sorting](https://resources.saylor.org/archived/wp-content/uploads/2012/06/CS303-Unit4Assignment-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please complete all questions in this assessment. 
@@ -111,7 +111,7 @@ Upon successful completion of this unit, the student will be able to:
     implement the merging work that you just completed in the first
     problem.  You can check your answers with the Saylor Foundation’s
     “[Answer
-    Key](http://www.saylor.org/site/wp-content/uploads/2012/06/CS303-Unit4AssignmentAnswerKey-FINAL.pdf)”
+    Key](https://resources.saylor.org/archived/wp-content/uploads/2012/06/CS303-Unit4AssignmentAnswerKey-FINAL.pdf)”
     (PDF).  
         
      This assessment should take you approximately 3 hours to complete,
