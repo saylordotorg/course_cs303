@@ -85,7 +85,7 @@ id="1.2"></span> 
 **1.4 Control Instructions** <span id="1.4"></span> 
 -   **Reading: Wikibooks: “Algorithms/Introduction”**
     Link: Wikibooks:
-    “[Algorithms/Introduction](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Algorithms_Introduction.pdf)”
+    “[Algorithms/Introduction](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/Algorithms_Introduction.pdf)”
     (PDF)  
       
      Instructions: Please read all of the sections on this webpage to
@@ -99,7 +99,7 @@ id="1.2"></span> 
 
 -   **Assessment: The Saylor Foundation’s “Introduction to Algorithms”**
     Link: The Saylor Foundation’s [“Introduction to
-    Algorithms”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/CS303-Unit1Assignment-FINAL-PRVFINAL.pdf) (PDF)  
+    Algorithms”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/CS303-Unit1Assignment-FINAL-PRVFINAL.pdf) (PDF)  
       
      Instructions: Please complete all questions in this
     assessment. <span class="apple-converted-space"> </span>There are
@@ -108,7 +108,7 @@ id="1.2"></span> 
     the problem. <span class="apple-converted-space"> </span>Each
     instruction is associated with some constant cost for execution. You
     can check your answers with the Saylor Foundation’s [“Answer
-    Key”](https://resources.saylor.org/archived/wp-content/uploads/2012/05/CS303-Unit1AssignmentAnswerKey-FINAL.pdf) (PDF).  
+    Key”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/CS303-Unit1AssignmentAnswerKey-FINAL.pdf) (PDF).  
       
      This assessment should take you approximately 2 hours to complete,
     including review for preparation.
