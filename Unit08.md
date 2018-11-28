@@ -132,14 +132,14 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Assessment: The Saylor Foundation’s “NP-Completeness”**
     Link: The Saylor Foundation’s
-    “[NP-Completeness](https://resources.saylor.org/archived/wp-content/uploads/2012/06/CS303-Unit8NP-CompletenessAssignment-FINAL.pdf)”
+    “[NP-Completeness](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/CS303-Unit8NP-CompletenessAssignment-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please complete all questions in this assessment.
      There are two questions that are both related to proving
     NP-Completeness of a given problem. You can check your answers with
     the Saylor Foundation’s “[Guide to
-    Responding](https://resources.saylor.org/archived/wp-content/uploads/2012/06/CS303-Unit8NP-CompletenessAnswerKey-FINAL.pdf).”
+    Responding](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/CS303-Unit8NP-CompletenessAnswerKey-FINAL.pdf).”
     (PDF)  
         
      This assessment should take you approximately 2 hours to complete,
